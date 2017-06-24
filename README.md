@@ -39,6 +39,7 @@
 - [后端成长之路：从菜鸟到架构][7]
 - [跟着 Github 学习 Restful HTTP API 设计][12]
 - [SegmentFault 技术周刊 Vol.5 - Docker丨Build, Ship, Run, and Monitor][17]
+- [SegmentFault 技术周刊 Vol.27 - Git 学习宝典：程序员走江湖必备][15]
 - [后端的轮子（二）--- 数据库][19]
 - [后端的轮子（三）--- 缓存][20]
 - [后端的轮子（四）--- 容器][21]
@@ -73,5 +74,6 @@
   [23]: http://www.cnblogs.com/taoshihan/p/6599722.html
   [24]: http://blog.csdn.net/tonysz126/article/details/8280696/
   [25]: https://mp.weixin.qq.com/s/DWR6zFuI7F-PL_0_7Pez3A
+  [26]: https://segmentfault.com/a/1190000009893041
 
 
