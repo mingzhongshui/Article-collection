@@ -1,8 +1,13 @@
 # Article-collection
-优秀IT文章集合
+优秀IT文章、资源集合
 
 ## PHP ##
 
+- [PHP手册][43]
+- [PSR PHP标准规范][44]
+- [PHP之道][45]
+- [深入理解PHP内核][46]
+- [Zephir 开发PHP扩展][47]
 - [PHP完整实战23种设计模式][1]
 - [FastCGI 协议以及在 PHP 中的实现][2]
 - [你应该知道的 OPCODE 缓存][3]
@@ -111,4 +116,10 @@
   [40]: http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html
   [41]: https://mp.weixin.qq.com/s?__biz=MzIyMDA1MzgyNw%3D%3D&mid=2651968866&idx=1&sn=25554c31eac32e78664b962412f515de&chksm=8c349d4ebb431458bef22609db7e9e76d33035ad92c31cbb2d201d13ce94bb8203c69ab9fb33
   [42]: https://segmentfault.com/a/1190000006671795
+  [43]: http://php.net/manual/zh/
+  [44]: https://psr.phphub.org/
+  [45]: http://laravel-china.github.io/php-the-right-way/
+  [46]: http://php-internals.com/
+  [47]: https://zephir-lang.com/
+  
 
