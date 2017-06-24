@@ -25,7 +25,7 @@
 
 ## Linux ##
 
-- - [PHP程序员玩转Linux系列-Linux和Windows安装nginx][23]
+- [PHP程序员玩转Linux系列-Linux和Windows安装nginx][23]
 
 
 ## 框架 ##
