@@ -19,6 +19,7 @@
 - [PHP中好的代码自动检查工具][13]
 - [PHP扩展开发及入门解惑][14]
 - [PHP SQL注入如何防范?][18]
+- [八年phper的高级工程师面试之路][48]
 
 
 ## SQL ##
@@ -121,5 +122,6 @@
   [45]: http://laravel-china.github.io/php-the-right-way/
   [46]: http://php-internals.com/
   [47]: https://zephir-lang.com/
+  [48]: https://zhuanlan.zhihu.com/p/27493130
   
 
