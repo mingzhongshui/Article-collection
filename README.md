@@ -74,6 +74,7 @@
 ## 工具 ##
 
 - [如何优雅地使用Sublime Text][16]
+- [从0开始学习 GitHub 系列之「团队合作利器 Branch」][49]
 
   [1]: https://segmentfault.com/a/1190000007797208
   [2]: https://segmentfault.com/a/1190000009863108
@@ -123,5 +124,6 @@
   [46]: http://php-internals.com/
   [47]: https://zephir-lang.com/
   [48]: https://zhuanlan.zhihu.com/p/27493130
+  [49]: https://segmentfault.com/a/1190000009997044
   
 
