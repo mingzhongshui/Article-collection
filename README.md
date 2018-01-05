@@ -31,6 +31,10 @@
 - [Redis 源码学习之事件驱动][25]
 - [Redis常见7种使用场景(PHP实战)][27]
 - [Redis应用场景][29]
+- [负载均衡中使用Redis实现共享Session](https://segmentfault.com/a/1190000011558000)
+- [Redis 实现队列](https://segmentfault.com/a/1190000011084493)
+- [SegmentFault 技术周刊 Vol.37 - 分布式缓存利器：Redis](https://segmentfault.com/a/1190000012038561)
+- [Redis快速入门及应用](https://mp.weixin.qq.com/s/exE_UmZDeeWZKGNhbOFJMQ)
 
 
 ## Linux ##
